@@ -1,7 +1,7 @@
 # Project Remen (Refugee-Mentor)
 ## Requirements
-**[NodeJS](https://nodejs.org/en/)**
-**[yarn package manager](https://yarnpkg.com/en/)**
+* **[NodeJS](https://nodejs.org/en/)**: To code JavaScript
+* **[yarn package manager](https://yarnpkg.com/en/)**: To install library
 
 ## Installation
 ### 1. Locate to root directory
